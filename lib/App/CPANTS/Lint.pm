@@ -5,7 +5,7 @@ use warnings;
 use Carp;
 use Module::CPANTS::Analyse;
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 sub new {
     my ($class, %opts) = @_;
@@ -209,7 +209,7 @@ Takes an optional hash (which will be passed into L<Module::CPANTS::Analyse> int
 
 Available options are:
 
-=open 4
+=over 4
 
 =item verbose
 

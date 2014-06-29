@@ -28,4 +28,4 @@ requires:
   perl: '5.008001'
 resources:
   repository: https://github.com/charsbar/App-CPANTS-Lint
-version: '0.01'
+version: '0.02'
